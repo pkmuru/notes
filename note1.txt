@@ -1,0 +1,3 @@
+
+mount win folder
+sudo mount.cifs //HP800G6/share_win ~/share_win -o rw,user=muru
